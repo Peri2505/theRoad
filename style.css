@@ -729,10 +729,7 @@ html {
   html {
     font-size: 45%;
   }
-  .open-navbar-icon {
-    margin-left: 3rem;
-  }
-  .close-navbar-icon {
-    margin-right: 3rem;
+  .logo {
+    margin-top: 8rem;
   }
 }
